@@ -27,7 +27,7 @@ Développement de l'interface utilisateur :
 - React
 - Tailwind
 
-Installation de packages:
+Installation des packages:
 
     npm create vite@latest
     npm install -D tailwindcss
