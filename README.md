@@ -24,6 +24,8 @@ Database: Supabase
 ## Front
 
 Développement de l'interface utilisateur : 
+- React
+- Tailwind
 
 Installation de packages:
 
@@ -50,6 +52,16 @@ Pour 'run' le Front(Chaises Volantes):
 Pour 'run' le Back:
 
     node server.js
+
+## En collaboration avec
+
+- Agathe Ansemle
+- Chloé Thomas
+- Hanaë Vernon
+- Karina Félicité
+- Remi Harfoush
+- Tom Benchetrit
+- Théo
 
 ![2](https://github.com/StevanyF/plateforme_vente_de_meubles_leschaisesvolantes/assets/146748030/6b9b1adc-42c5-4786-9292-cada3b3c258b)
 
