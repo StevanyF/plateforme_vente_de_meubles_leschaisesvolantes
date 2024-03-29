@@ -1,6 +1,6 @@
 # LES CHAISES VOLANTES
 
-Project collectif (8 personnes)
+Project collectif (8 personnes, 8 jours)
 
 Contexte: 
 
