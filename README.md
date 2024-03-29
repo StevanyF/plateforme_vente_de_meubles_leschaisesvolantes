@@ -23,7 +23,7 @@ Database: Supabase
 
 ## Front
 
-Pour des contraintes de temps je me suis focalisée sur le Front en développant l'interface utilisateur : 
+Développement de l'interface utilisateur : 
 
 Installation de packages:
 
@@ -50,4 +50,12 @@ Pour 'run' le Front(Chaises Volantes):
 Pour 'run' le Back:
 
     node server.js
+
+![2](https://github.com/StevanyF/plateforme_vente_de_meubles_leschaisesvolantes/assets/146748030/6b9b1adc-42c5-4786-9292-cada3b3c258b)
+
+![3](https://github.com/StevanyF/plateforme_vente_de_meubles_leschaisesvolantes/assets/146748030/e7378677-60fc-476d-b5c2-a16510203cce)
+
+
+
+
 
