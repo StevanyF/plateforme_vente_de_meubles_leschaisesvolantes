@@ -27,6 +27,9 @@ Développement de l'interface utilisateur :
 - React
 - Tailwind
 
+Création d'une maquette :
+- Figma
+  
 Installation des packages:
 
     npm create vite@latest
